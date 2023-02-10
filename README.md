@@ -1,6 +1,7 @@
 ## System Misji
 
 Za pomocą pluginu wykonujesz zadania za które dostajesz nagrodę
+
 ------
 
 Komendy:
